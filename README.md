@@ -19,7 +19,9 @@ El proyecto abarca la creación de la tabla y la ejecución de once consultas, c
 A continuación se detallan los 11 casos de prueba (TC) incluidos en este proyecto, cada uno acompañado de su archivo SQL y su captura de pantalla:
 
 - **TC01**: Verificar que se puedan insertar nuevos medicamentos correctamente
-  - Archivo SQL: `TC01.sql`
+- [Archivo SQL](SQLTC01.sql.)
+- [Screenshots](./screenshot/)
+
   - Screenshot: `TC01-screenshot.png`
   
 - **TC02**: Intentar insertar un medicamento ya existente (Prueba negativa)
