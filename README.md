@@ -21,12 +21,12 @@ A continuación se detallan los 11 casos de prueba (TC) incluidos en este proyec
 - **TC01**: Verificar que se puedan insertar nuevos medicamentos correctamente
 - [Archivo SQL](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC01.sql)
 - [Screenshots](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC01-screenshot.png.png)
-
-  - Screenshot: `TC01-screenshot.png`
   
 - **TC02**: Intentar insertar un medicamento ya existente (Prueba negativa)
   - Archivo SQL: `TC02.sql`
   - Screenshot: `TC02-screenshot.png`
+- [Archivo SQL: TC02.sql](archivos SQL/TC02.sql)
+- [Screenshot: TC02-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC02-screenshot.png.png)
   
 - **TC03**: Verificar la actualización de un medicamento existente
   - Archivo SQL: `TC03.sql`
