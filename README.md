@@ -10,7 +10,7 @@ El proyecto abarca la creación de la tabla y la ejecución de once consultas, c
 
 ## Estructura del Proyecto
 
-- **Base de datos y tabla**: Archivo SQL con la estructura de creación de la base de datos (medicamentos) y la tabla (pedidonoviembre2022).
+- **Base de datos y tabla**: Archivo SQL con la estructura de creación de la base de datos `medicamentos` y la tabla `pedidonoviembre2022`.
 - **Archivos SQL**: Contiene 11 archivos SQL, cada uno con una consulta diferente representando un caso de prueba **(TC)**.
 - **Screenshot**: Contiene 11 capturas de pantalla de los resultados obtenidos al ejecutar cada consulta en **MySQL**.
 
