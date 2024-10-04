@@ -40,28 +40,28 @@ A continuación se detallan los 11 casos de prueba (TC) incluidos en este proyec
   - [Captura de Pantalla: TC05-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC05-screenshot.png.png)
   
 - **TC06**: Verificar medicamentos con stock menor a 50 unidades
-  - Archivo SQL: `TC06.sql`
-  - Screenshot: `TC06-screenshot.png`
+  - [Archivo SQL: TC06.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC06.sql)
+  - [Captura de Pantalla: TC06-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC06-screenshot.png.png)
   
 - **TC07**: Verificar medicamentos con baja rotación en la columna "ROT_OCT_2022"
-  - Archivo SQL: `TC07.sql`
-  - Screenshot: `TC07-screenshot.png`
+  - [Archivo SQL: TC07.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC07.sql)
+  - [Captura de Pantalla: TC07-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC07-screenshot.png.png)
   
 - **TC08**: Calcular el promedio de pedidos en el rango de 300 a 2000 unidades
-  - Archivo SQL: `TC08.sql`
-  - Screenshot: `TC08-screenshot.png`
+  - [Archivo SQL: TC08.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC08.sql)
+  - [Captura de Pantalla: TC08-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC08-screenshot.png.png)
   
 - **TC09**: Validar la búsqueda de un medicamento por descripción
-  - Archivo SQL: `TC09.sql`
-  - Screenshot: `TC09-screenshot.png`
+  - [Archivo SQL: TC09.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC09.sql)
+  - [Captura de Pantalla: TC09-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC09-screenshot.png.png)
   
 - **TC10**: Comprobar medicamentos cuya rotación haya disminuido en los meses de agosto, septiembre y octubre
-  - Archivo SQL: `TC10.sql`
-  - Screenshot: `TC10-screenshot.png`
+  - [Archivo SQL: TC10.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC10.sql)
+  - [Captura de Pantalla: TC10-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC10-screenshot.png.png)
   
 - **TC11**: Verificar medicamentos sin rotación para los meses de agosto, septiembre y octubre
-  - Archivo SQL: `TC11.sql`
-  - Screenshot: `TC11-screenshot.png`
+  - [Archivo SQL: TC11.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC11.sql)
+  - [Captura de Pantalla: TC11-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC11-screenshot.png.png)
 
 ## Conclusión
 
