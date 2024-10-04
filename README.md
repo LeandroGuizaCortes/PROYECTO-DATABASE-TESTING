@@ -18,15 +18,15 @@ El proyecto abarca la creación de la tabla y la ejecución de once consultas, c
 
 A continuación se detallan los 11 casos de prueba (TC) incluidos en este proyecto, cada uno acompañado de su archivo SQL y su captura de pantalla:
 
-- **TC01**: Verificar que se puedan insertar nuevos medicamentos correctamente
+- **TC01**: `Verificar que se puedan insertar nuevos medicamentos correctamente`
   - [Archivo SQL: TC01.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC01.sql)
   - [Captura de Pantalla: TC01-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC01-screenshot.png.png)
   
-- **TC02**: Intentar insertar un medicamento ya existente (Prueba negativa)
+- **TC02**: `Intentar insertar un medicamento ya existente (Prueba negativa)`
   - [Archivo SQL: TC02.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC02.sql)
   - [Captura de Pantalla: TC02-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC02-screenshot.png.png)
   
-- **TC03**: Verificar la actualización de un medicamento existente
+- **TC03**: `Verificar la actualización de un medicamento existente`
   - [Archivo SQL: TC03.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC03.sql)
   - [Captura de Pantalla: TC03-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC03-screenshot.png.png)
   
