@@ -27,16 +27,17 @@ A continuación se detallan los 11 casos de prueba (TC) incluidos en este proyec
   - [Captura de Pantalla: TC02-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC02-screenshot.png.png)
   
 - **TC03**: Verificar la actualización de un medicamento existente
-  - Archivo SQL: `TC03.sql`
-  - Screenshot: `TC03-screenshot.png`
+  - [Archivo SQL: TC03.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC03.sql)
+  - [Captura de Pantalla: TC03-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC03-screenshot.png.png)
   
 - **TC04**: Verificar la correcta eliminación de un medicamento
-  - Archivo SQL: `TC04.sql`
-  - Screenshot: `TC04-screenshot.png`
+  - [Archivo SQL: TC04.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC04.sql)
+  - [Captura de Pantalla: TC04-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC04-screenshot.png.png)
   
 - **TC05**: Verificar búsqueda de medicamentos por miligramo (MG)
-  - Archivo SQL: `TC05.sql`
-  - Screenshot: `TC05-screenshot.png`
+
+  - [Archivo SQL: TC05.sql](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/archivos%20SQL/TC05.sql)
+  - [Captura de Pantalla: TC05-screenshot.png](https://github.com/LeandroGuizaCortes/PROYECTO-DATABASE-TESTING/blob/main/screenshot/TC05-screenshot.png.png)
   
 - **TC06**: Verificar medicamentos con stock menor a 50 unidades
   - Archivo SQL: `TC06.sql`
