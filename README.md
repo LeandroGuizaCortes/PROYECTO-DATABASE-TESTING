@@ -64,7 +64,6 @@ A continuación se detallan los 11 casos de prueba (TC) incluidos en este proyec
 
 ## Conclusión
 
-Este proyecto personal de base de datos en **MySQL** me ha permitido consolidar mis conocimientos en SQL, centrándome en los comandos más utilizados en el testing. Esta experiencia ha sido fundamental para fortalecer mis habilidades como `Analista QA`.
+Este proyecto personal de base de datos en **MySQL** me ha permitido consolidar mis conocimientos en **SQL**, centrándome en los comandos más utilizados en el testing. Esta experiencia ha sido fundamental para fortalecer mis habilidades como `Analista QA`.
 
 
-[Visita mi perfil de LinkedIn](https://www.linkedin.com/in/leandro-guiza-cortes-579b612ab/)
